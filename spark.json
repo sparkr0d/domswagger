@@ -1,9 +1,7 @@
 {
-    "url": "https://raw.githubusercontent.com/sparkr0d/domswagger/main/spark.json",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/sparkr0d/domswagger/main/spark.json",
-            "name": "HACKED!"
-        }
-    ]
+    "url": "https://raw.githubusercontent.com/sparkr0d/domswagger/main/spark.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/ynsmroztas/domswagger/main/spark.yaml",
+        "name": "Sparkr0d Was Here"
+    }]
 }
